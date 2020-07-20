@@ -21,8 +21,6 @@ The Foundation exists to promote philanthropy and create a stronger community in
 
 **Project description:**
 
-The Foundation exists to promote philanthropy and create a stronger community in the Telluride region (San Miguel, Ouray and western Montrose Counties)
-
 * I have made the theme from scratch
 * Use WPBackery page builder for page content
 * This client needs to sell his modules on how to publishing book. I made custom functionality using <strong>WordPress CPT and Shortcode</strong> to show clients video content on How to publishing book. To watch these modules you have to be a valid user too. For now, I can only show the module page preview. 
@@ -30,17 +28,16 @@ The Foundation exists to promote philanthropy and create a stronger community in
 <img src="images/bookboundmodules.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[High Adventure Treks](https://www.highadventuretreks.org/calendar/)
+<img src="images/highadventuretrek.jpg?raw=true"/>
+
+**Project description:**
+
+High Adventure Treks. Growing Relationships, Communication and Leadership through Adventure with our Dads
+
+* I have made the theme from scratch
+* Use WPBackery page builder for page content
+* Customizing the popular event plugin `The Events Calendar` to filter the events.
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
