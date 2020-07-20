@@ -5,7 +5,7 @@
 ### Custom WP Theme
 
 [Telluride Foundation](/telluride_foundation)
-<img src="images/TellurideFoundation.png?raw=true"/>
+<img src="images/TellurideFoundation.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
