@@ -92,6 +92,17 @@ This is a magazine theme.
 
 ---
 
+[Stone UK](https://stoneuk.com/)
+<img src="images/stoneuk.jpg?raw=true"/>
+
+**Project description:**
+
+* Developed custom theme
+* Use ```ACF``` & page template for pages.
+* integrated ```WooCommerce Plugin``` and customize the ```Product Single``` Page, added Custom ```Product Enquiry Form```
+
+---
+
 ### WordPress Theme Customization
 
 [Ryder Walker](https://ryderwalker.com/)
