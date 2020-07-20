@@ -2,7 +2,7 @@
 
 ---
 
-### Custom WP Theme
+### Custom WordPress Theme
 
 [Meditation With Peggygaines](https://www.meditationwithpeggygaines.com/)
 <img src="images/meditationwithpeggygaines.jpg?raw=true"/>
@@ -76,3 +76,34 @@ American's popular disaster response organization.
 * Use WPBackery page builder for page content
 * Integrated ```WooCommerce``` & ```Memberium``` plugins to sell product based on different membership user.
 * Also integrated ```LearnDash LMS``` Plugin to provide the members course on disaster response.
+
+---
+
+[Mod Mart Blog](https://blog.modmart.com/)
+<img src="images/modmart.jpg?raw=true"/>
+
+**Project description:**
+
+This is a magazine theme.
+
+* Developed custom theme
+* Use WPBackery page builder for page content
+* Make custom ```WPBackery Elements``` to show different layout of blogs. 
+
+
+
+### WordPress Theme Customization
+
+[Ryder Walker](https://ryderwalker.com/)
+<img src="images/ryderwalker.jpg?raw=true"/>
+
+**Project description:**
+This is an alpine adventures clubs.
+
+* Customize ```unicon``` theme making a child theme.
+* Use WPBackery page builder for page content
+* integrated a custom filter option for user to find the the trip of Ryder Walker. I have used jQuery, Custom Post Type. <a href="https://ryderwalker.com/tours/" target="_blank">Show Trip Finder</a>
+* Customize the single page for different tour types. Use ```ACF``` for to grab data for tour.
+
+---
+
