@@ -4,6 +4,20 @@
 
 ### Custom WP Theme
 
+[Meditation With Peggygaines](https://www.meditationwithpeggygaines.com/)
+<img src="images/meditationwithpeggygainesjpg?raw=true"/>
+
+**Project description:**
+
+Meditation instructor in Coral Gables, Florida. Client develop an meditation app too. The app grab data from WP Rest API.
+
+* Developed custom theme
+* Use WPBackery page builder for page content
+* Client needs to develop an app on meditaion where client provides audio. I use ```Custom Post Type``` & ```WP Rest API``` to provide the app developer to grab those audio files.
+* Integrated ```WooCommerce Plugin``` to sell clients app and other products.
+
+---
+
 [Telluride Foundation](telluridefoundation.org)
 <img src="images/TellurideFoundation.jpg?raw=true"/>
 
@@ -48,3 +62,17 @@ High Adventure Treks. Growing Relationships, Communication and Leadership throug
 * Developed custom theme
 * Use WPBackery page builder for page content
 * Use ``` WordPress REST API``` for showing his youtube videos on marketing. Use jQuery & rest api to fetch video data from his another WP site. <a href="https://johnarnott.com/video/" target="_blank">Preview</a>
+
+---
+
+[Minute Man Response](https://www.minutemanresponse.org/)
+<img src="images/minutemanresponse.jpg?raw=true"/>
+
+**Project description:**
+
+American's popular disaster response organization.
+
+* Developed custom theme
+* Use WPBackery page builder for page content
+* Integrated ```WooCommerce``` & ```Memberium``` plugins to sell product based on different membership user.
+* Also integrated ```LearnDash LMS``` Plugin to provide the members course on disaster response.
