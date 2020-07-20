@@ -103,7 +103,7 @@ This is an alpine adventures clubs.
 * Customize ```unicon``` theme making a child theme.
 * Use WPBackery page builder for page content
 * integrated a custom filter option for user to find the the trip of Ryder Walker. I have used jQuery, Custom Post Type. <a href="https://ryderwalker.com/tours/" target="_blank">Show Trip Finder</a>
-* Customize the single page for different tour types. Use ```ACF``` for to grab data for tour.
+* Customize the single page for different tour types. Use ```ACF``` to grab data for tour.
 
 ---
 
