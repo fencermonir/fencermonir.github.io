@@ -47,4 +47,4 @@ High Adventure Treks. Growing Relationships, Communication and Leadership throug
 
 * Developed custom theme
 * Use WPBackery page builder for page content
-* Use ``` WordPress REST API``` for showing his youtube videos on marketing. Use jQuery & rest api to fetch video data from his another WP site. 
+* Use ``` WordPress REST API``` for showing his youtube videos on marketing. Use jQuery & rest api to fetch video data from his another WP site. <a href="https://johnarnott.com/video/" target="_blank">Preview</a>
