@@ -90,7 +90,7 @@ This is a magazine theme.
 * Use WPBackery page builder for page content
 * Make custom ```WPBackery Elements``` to show different layout of blogs. 
 
-
+---
 
 ### WordPress Theme Customization
 
