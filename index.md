@@ -5,7 +5,7 @@
 ### Custom WP Theme
 
 [Meditation With Peggygaines](https://www.meditationwithpeggygaines.com/)
-<img src="images/meditationwithpeggygainesjpg?raw=true"/>
+<img src="images/meditationwithpeggygaines.jpg?raw=true"/>
 
 **Project description:**
 
